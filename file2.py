@@ -1,2 +1,2 @@
-print 'something else'
+print 'i want to print something else'
 print 'another thing'
